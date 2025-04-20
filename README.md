@@ -3,9 +3,9 @@
 ## 💻 My Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,ts,selenium,junit,playwright,cypress,docker,git,github,jenkins,postman,swagger,linux,xcode,androidstudio,mysql,html,css,javascript,json" /></p>
-
----
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,selenium,cypress" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,postman,aws,androidstudio" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,vscode,bash,markdown,figma,intellij,azure,graphql" /></p>
 
 ## 🧠 Skills
 
@@ -32,4 +32,5 @@ With 6+ years of hands-on experience in both manual and automated testing, I’v
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vkozytc/)
 
 Dream big. Test smart. 🚀
+
 
